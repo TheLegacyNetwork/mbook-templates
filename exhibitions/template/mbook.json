@@ -6,18 +6,47 @@
     "owner": {
       "uid": "",
       "name": "",
+      "avatar": [
+        {
+          "avatar_uri": "",
+          "path_to": "",
+          "alt_text": ""
+        }
+      ],
       "profile_path": ""
     },
     "public": true,
     "version": 1,
-    "title": "",
-    "subtitle": "",
-    "description": "",
-    "storage": "",
     "language": {
       "en", "de", "fr"
     },
-    "cover_uri": "",
+    "content": [
+      {
+        "en": {
+          "title": "",
+          "description": "",
+          "subtitle": ""
+        },
+        "de": {
+          "title": "",
+          "description": "",
+          "subtitle": ""
+        },
+        "fr": {
+          "title": "",
+          "description": "",
+          "subtitle": ""
+        }
+      }
+    ],
+    "storage": "",
+    "cover_image": [
+      {
+        "cover_uri": "",
+        "path_to": "",
+        "alt_text": ""
+      }
+    ],
     "date_published": "",
     "date_ended": "",
     "elements": [
@@ -29,6 +58,28 @@
         "date_created": "",
         "uri": "",
         "path_to": "",
+        "content": [
+          {
+            "en": {
+              "title": "",
+              "description": "",
+              "caption": "",
+              "alt": ""
+            },
+            "de": {
+              "title": "",
+              "description": "",
+              "caption": "",
+              "alt": ""
+            },
+            "fr": {
+              "title": "",
+              "description": "",
+              "caption": "",
+              "alt": ""
+            }
+          }
+        ],
         "metadata": { "" },
         "nft": "",
         "element_tags": [
@@ -74,6 +125,29 @@
         "version": 1,
         "date_created": "",
         "uri": "",
+        "path_to": "",
+        "content": [
+          {
+            "en": {
+              "title": "",
+              "description": "",
+              "caption": "",
+              "alt": ""
+            },
+            "de": {
+              "title": "",
+              "description": "",
+              "caption": "",
+              "alt": ""
+            },
+            "fr": {
+              "title": "",
+              "description": "",
+              "caption": "",
+              "alt": ""
+            }
+          }
+        ],
         "metadata": { "" },
         "element_tags": [
           { "nodes": "" },
@@ -85,36 +159,30 @@
       {
         "id": 4,
         "author": "",
-        "type": "image/jpeg",
-        "version": 1,
-        "date_created": "",
-        "uri": "",
-        "path_to": "",
-        "metadata": { "" },
-        "element_tags": [
-          { "nodes": "" },
-          { "locations": "" },
-          { "people": "" },
-          { "brands": "" }
-        ]
-      },
-      {
-        "id": 5,
-        "author": "",
         "type": "video/mpeg",
         "version": 1,
         "date_created": "",
         "uri": "",
+        "path_to": "",
         "content": [
           {
             "en": {
-              "caption": ""
+              "title": "",
+              "description": "",
+              "caption": "",
+              "alt": ""
             },
             "de": {
-              "caption": ""
+              "title": "",
+              "description": "",
+              "caption": "",
+              "alt": ""
             },
             "fr": {
-              "caption": ""
+              "title": "",
+              "description": "",
+              "caption": "",
+              "alt": ""
             }
           }
         ],
