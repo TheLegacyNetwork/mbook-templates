@@ -1,66 +1,116 @@
 {
   "mbook": {
-    "id": "",
-    "type": "personal",
-    "owner": {
-      "uid": "",
-      "name": "",
-      "profile_path": ""
-    },
-    "public": true,
-    "version": 1,
-    "title": "",
-    "subtitle": "",
-    "description": "",
-    "storage": "",
-    "language": {
-      "en", "de", "fr"
-    },
-    "cover_uri": "",
-    "date_published": "",
-    "date_ended": "",
-    "elements": [
+    "cover": [
       {
-        "id": 1,
-        "author": "",
-        "type": "image/jpeg",
+        "public": true,
         "version": 1,
-        "date_created": "",
-        "uri": "",
-        "path_to": "",
-        "metadata": { "" },
-        "nft": "",
-        "element_tags": [
-          { "nodes": "" },
-          { "locations": "" },
-          { "people": "" },
-          { "brands": "" }
-        ]
-      },
-      {
-        "id": 2,
-        "author": "",
-        "type": "plain/text",
-        "version": 1,
-        "date_created": "",
+        "language": [
+          "en", "de", "fr"
+        ],
+        "commercial": false,
+        "type": "",
+        "subtype": "",
+        "owner": {
+          "published_by": {
+            "name": "",
+            "uid": ""
+          },
+          "avatar": {
+            "avatar_uri": "",
+            "alt_text": ""
+          }
+        },
         "content": [
           {
             "en": {
               "title": "",
-              "description": "",
+              "subtitle": "",
+              "description": ""
+            }
+          }
+        ],
+        "cover_image": [
+          {
+            "cover_uri": "",
+            "alt_text": ""
+          }
+        ]
+      }
+    ],
+    "storage": "ar",
+    "elements": [
+      {
+        "id": 1,
+        "type": "image/jpeg",
+        "uri": "",
+        "content": [
+          {
+            "en": {
+              "title": "",
               "caption": "",
+              "alt": ""
+            },
+            "de": {
+              "title": "",
+              "caption": "",
+              "alt": ""
+            },
+            "fr": {
+              "title": "",
+              "caption": "",
+              "alt": ""
+            }
+          }
+        ],
+        "metadata": {},
+        "nft": "",
+        "element_tags": [
+          {
+            "nodes": [
+              {}
+            ],
+            "people_in_element": [
+              {
+                "person": 1,
+                "person_info": {
+                  "first name": "",
+                  "last name": "",
+                  "uri": ""
+                }
+              }
+            ],
+            "locations": [
+              {
+                "location": 1,
+                "location_data": {
+                  "address 1": "",
+                  "postal code": "",
+                  "city": "",
+                  "country": "",
+                  "Plus Code": "",
+                  "Longitude": "",
+                  "Latitude": ""
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "type": "plain/text",
+        "content": [
+          {
+            "en": {
+              "title": "",
               "body": ""
             },
             "de": {
               "title": "",
-              "description": "",
-              "caption": "",
               "body": ""
             },
             "fr": {
               "title": "",
-              "description": "",
-              "caption": "",
               "body": ""
             }
           }
@@ -68,101 +118,168 @@
       },
       {
         "id": 3,
-        "author": "",
         "type": "audio/mpeg",
-        "version": 1,
-        "date_created": "",
-        "uri": "",
-        "metadata": { "" },
-        "element_tags": [
-          { "nodes": "" },
-          { "locations": "" },
-          { "people": "" },
-          { "brands": "" }
-        ]
-      },
-      {
-        "id": 4,
-        "author": "",
-        "type": "image/jpeg",
-        "version": 1,
-        "date_created": "",
-        "uri": "",
-        "path_to": "",
-        "metadata": { "" },
-        "element_tags": [
-          { "nodes": "" },
-          { "locations": "" },
-          { "people": "" },
-          { "brands": "" }
-        ]
-      },
-      {
-        "id": 5,
-        "author": "",
-        "type": "video/mpeg",
-        "version": 1,
-        "date_created": "",
         "uri": "",
         "content": [
           {
             "en": {
-              "caption": ""
+              "title": "",
+              "description": "",
+              "caption": "",
+              "alt": ""
             },
             "de": {
-              "caption": ""
+              "title": "",
+              "description": "",
+              "caption": "",
+              "alt": ""
             },
             "fr": {
-              "caption": ""
+              "title": "",
+              "description": "",
+              "caption": "",
+              "alt": ""
             }
           }
         ],
-        "metadata": { "" },
-        "tags": [
-          { "nodes": "" },
-          { "locations": "" },
-          { "people": "" },
-          { "brands": "" }
+        "metadata": {},
+        "element_tags": [
+          {
+            "nodes": [
+              {}
+            ],
+            "people_in_element": [
+              {
+                "person": 1,
+                "person_info": {
+                  "first name": "",
+                  "last name": "",
+                  "uri": ""
+                }
+              }
+            ]
+          }
         ]
       },
+      {
+        "id": 4,
+        "type": "video/mpeg",
+        "uri": "",
+        "content": [
+          {
+            "en": {
+              "title": "",
+              "description": "",
+              "caption": "",
+              "alt": ""
+            },
+            "de": {
+              "title": "",
+              "description": "",
+              "caption": "",
+              "alt": ""
+            },
+            "fr": {
+              "title": "",
+              "description": "",
+              "caption": "",
+              "alt": ""
+            }
+          }
+        ],
+        "metadata": {},
+        "element_tags": [
+          {
+            "nodes": [
+              {}
+            ],
+            "people_in_element": [
+              {
+                "person": 1,
+                "person_info": {
+                  "first name": "",
+                  "last name": "",
+                  "uri": ""
+                }
+              }
+            ],
+            "locations": [
+              {
+                "location": 1,
+                "location_data": {
+                  "address 1": "",
+                  "postal code": "",
+                  "city": "",
+                  "country": "",
+                  "Plus Code": "",
+                  "Longitude": "",
+                  "Latitude": ""
+                }
+              }
+            ]
+          }
+        ]
+      }
     ],
-    "permissions": {
-      "contributors": [
-        {
-          "id": "",
-          "name": "",
-          "date_approved": "",
-          "elements_contributed": [
-            {}
-          ]
-        }
-      ]
-      "viewers": [
-        {
-          "id": "",
-          "name": "",
-          "date_approved": ""
-        }
-      ]
-    },
-    "nft": {
-      "mbook_nft": "",
-      "store_nft": "",
-      "contributor_nft": ""
-    },
+    "mbook_nft": [
+      {
+        "nft_uri": "",
+        "nft_name": ""
+      }
+    ],
+    "collectibles": [
+      {
+        "nft_id": 1,
+        "nft_uri" : "",
+        "nft_content": [
+          {
+            "en": {
+              "title": "",
+              "description": ""
+            },
+            "de": {
+              "title": "",
+              "description": ""
+            }
+          }
+        ]
+      }
+    ],
+    "contributor_nft": [
+      {
+        "nft_id": 1,
+        "nft_uri" : "",
+        "nft_content": [
+          {
+            "en": {
+              "title": "",
+              "description": ""
+            },
+            "de": {
+              "title": "",
+              "description": ""
+            }
+          }
+        ]
+      }
+    ],
     "render": {
       "theme": 1,
-      "hierarchy": [
-        {}
+      "hierarchy": "default",
+      "metaverse": [
+        {
+          "render_id": 1,
+          "render_uri": "",
+          "render_type": "3d",
+          "link_uri": ""
+        }
       ],
-      "ontology": {
-        "linked_tags": "",
-        "navigation": true
-      },
       "embed": [
-        "html": {},
-        "css": {},
-        "function": {}
+        {
+          "html": {},
+          "css": {},
+          "functions": {}
+        }
       ]
     }
   }
