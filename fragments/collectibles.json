@@ -1,0 +1,18 @@
+"collectibles": [
+  {
+    "nft_id": 1,
+    "nft_uri" : "",
+    "nft_content": [
+      {
+        "en": {
+          "title": "",
+          "description": ""
+        },
+        "de": {
+          "title": "",
+          "description": ""
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,35 @@
+"cover": {
+  "public": true,
+  "version": 1,
+  "language": [
+    "en", "de", "fr"
+  ],
+  "commercial": true,
+  "type": "",
+  "subtype": "",
+  "owner": {
+    "published_by": {
+      "name": "",
+      "uid": ""
+    },
+    "avatar": {
+      "avatar_uri": "",
+      "alt_text": ""
+    }
+  },
+  "content": {
+    "en": {
+      "title": "",
+      "subtitle": "",
+      "description": ""
+    }
+  },
+  "cover_image": {
+    "cover_uri": "",
+    "alt_text": ""
+  },
+  "storage": {
+    "source": "",
+    "uri": ""
+  }
+}

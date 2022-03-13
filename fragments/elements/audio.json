@@ -1,0 +1,66 @@
+{
+  "id": 3,
+  "type": "audio/mpeg",
+  "uri": "",
+  "content": {
+    "en": {
+      "title": "",
+      "description": "",
+      "caption": "",
+      "alt": "",
+      "transcript": {
+        "uri": ""
+      }
+    },
+    "de": {
+      "title": "",
+      "description": "",
+      "caption": "",
+      "alt": "",
+      "transcript": {
+        "uri": ""
+      }
+    },
+    "fr": {
+      "title": "",
+      "description": "",
+      "caption": "",
+      "alt": "",
+      "transcript": {
+        "uri": ""
+      }
+    }
+  },
+  "element_tags": {
+    "nodes": [
+      {
+        "id": 1,
+        "node": ""
+      }
+    ],
+    "people_in_element": [
+      {
+        "person": 1,
+        "person_info": {
+          "first name": "",
+          "last name": "",
+          "uri": ""
+        }
+      }
+    ],
+    "locations": [
+      {
+      "location": 1,
+        "location_data": {
+          "address 1": "",
+          "postal code": "",
+          "city": "",
+          "country": "",
+          "Plus Code": "",
+          "Longitude": "",
+          "Latitude": ""
+        }
+      }
+    ]
+  }
+}

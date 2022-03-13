@@ -1,0 +1,19 @@
+"render": {
+  "theme": 1,
+  "hierarchy": "default",
+  "metaverse": [
+    {
+      "render_id": 1,
+      "render_uri": "",
+      "render_type": "",
+      "link_uri": ""
+    }
+  ],
+  "embed": [
+    {
+      "html": {},
+      "css": {},
+      "functions": {}
+    }
+  ]
+}

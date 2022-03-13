@@ -1,0 +1,61 @@
+{
+  "id": 2,
+  "type": "image/jpeg",
+  "uri": "",
+  "content": {
+    "en": {
+      "title": "",
+      "caption": "",
+      "alt": ""
+    },
+    "de": {
+      "title": "",
+      "caption": "",
+      "alt": ""
+    },
+    "fr": {
+      "title": "",
+      "caption": "",
+      "alt": ""
+    }
+  },
+  "nft": [
+    {
+      "id": 1,
+      "name": "",
+      "uri": ""
+    }
+  ],
+  "element_tags": {
+    "nodes": [
+      {
+        "id": 1,
+        "node": ""
+      }
+    ],
+    "people_in_element": [
+      {
+        "person": 1,
+        "person_info": {
+          "first name": "",
+          "last name": "",
+          "uri": ""
+        }
+      }
+    ],
+    "locations": [
+      {
+      "location": 1,
+        "location_data": {
+          "address 1": "",
+          "postal code": "",
+          "city": "",
+          "country": "",
+          "Plus Code": "",
+          "Longitude": "",
+          "Latitude": ""
+        }
+      }
+    ]
+  }
+}
